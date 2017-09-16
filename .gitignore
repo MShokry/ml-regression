@@ -1,0 +1,12 @@
+
+\.ipynb_checkpoints/
+
+MNIST-data/
+
+kc_house_data\.gl/
+
+kc_house_data_small\.gl/
+
+ml-regression/
+
+*.csv
