@@ -1,0 +1,3 @@
+cd ~/anaconda2/bin/ && source activate gl-env && cd ../ml-reg && ipython notebook
+
+cd ~/anaconda2/bin/ && source activate gl-env && cd ../ml-reg &&sudo ipython notebook
